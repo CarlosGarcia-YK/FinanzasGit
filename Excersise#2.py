@@ -12,7 +12,7 @@ print("yours numbers " + str(numbers[0]) + " and " + str(numbers[1]) + " have a 
 #------------------Business---------------------------
 money = int(input("how much money do you want to give"))
 interest =int(input ("What is your interest %") )
-years = int(input ("how many years "))
+years = int(input ("cuantos años tienes "))
 count = 0
 
 if interest < 100 :
